@@ -62,6 +62,7 @@ Solidity programming language samples, smart contracts for Ethereum.
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [Mastering The Fundamentals of Ethereum (For New Blockchain Devs) Part III — Wallets, Keys, And Accounts](https://medium.com/@markmuskardin/mastering-the-fundamentals-of-ethereum-for-new-blockchain-devs-part-iii-wallets-keys-and-4cd3175b535b)
 - [Ethereum Development Crash Course Part One](https://medium.com/bitfwd/ethereum-development-crash-course-part-one-327dee16878b)
+- [Data Convergence — Blockchain — Blockchain Developer Tools](https://medium.com/data-convergence/data-convergence-blockchain-blockchain-developer-tools-8c9e98852251)
 
 ## Solidity
 
@@ -99,6 +100,7 @@ Solidity programming language samples, smart contracts for Ethereum.
 - [Fixed point math in Solidity](https://medium.com/cementdao/fixed-point-math-in-solidity-616f4508c6e8)
 - [Solidity Library for Array of Type Address](https://medium.com/51nodes/solidity-library-for-array-of-type-address-e40c36784ab2)
 - [`external` vs `public` best practices](https://ethereum.stackexchange.com/questions/19380/external-vs-public-best-practices)
+- [Solidity 0.6: You Might Be Sending Ether Incorrectly](https://medium.com/better-programming/solidity-0-6-you-might-be-sending-ether-all-wrong-1e119e1ffc27)
 
 ## Contracts
 
